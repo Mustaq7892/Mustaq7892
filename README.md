@@ -40,9 +40,8 @@ Deepening my SQL Server and query-optimization skills, data warehouse architectu
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/shaik-mustaq-915741254/" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(10, 102, 194, 0.2); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(10, 102, 194, 0.35); border-radius: 30px; padding: 8px 18px; box-shadow: 0 4px 20px rgba(10, 102, 194, 0.15); text-decoration: none; transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);">
-  <svg width="18" height="18" viewBox="0 0 24 24" fill="#0A66C2" style="transition: transform 0.3s ease;">
-    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-  </svg>
-  <span style="color: #0A66C2; font-weight: 600; font-size: 14px; letter-spacing: 0.3px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">Connect</span>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/shaik-mustaq-915741254/" target="_blank" style="display: inline-block; background: rgba(10, 102, 194, 0.1); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(10, 102, 194, 0.25); border-radius: 12px; padding: 8px 16px; box-shadow: 0 4px 24px rgba(10, 102, 194, 0.12);">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A66C2" alt="LinkedIn" style="height: 32px;">
+  </a>
+</p>
