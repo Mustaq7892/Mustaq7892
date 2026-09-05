@@ -1,87 +1,41 @@
 # Hi, I'm Shaik Mustaq 👋
 
-### Software Developer | SQL Server | Oracle SQL | Data Engineering
+**Software Developer with 2+ years of professional experience**, currently focused on building end-to-end data engineering skills — ETL pipelines, data warehousing, dimensional modeling, and analytical SQL — on top of a background in enterprise application development.
 
-I'm a **Software Developer with over 2 years of professional experience** in designing and developing enterprise applications. I'm passionate about **Data Engineering**, **SQL**, and **Database Technologies**, with a strong interest in building scalable data solutions and modern data warehouses.
-
-I'm currently focused on expanding my expertise in **Data Engineering** by developing end-to-end projects that showcase industry best practices in ETL development, data warehousing, data modeling, and analytical SQL.
+I work primarily with **Microsoft SQL Server** and **Oracle SQL**, and I'm building toward production-grade data engineering: designing systems that turn raw data into something a business can actually query and trust.
 
 ---
 
-## 🚀 Current Focus
+## Projects
 
-- 🏗️ Data Warehousing
-- 🔄 ETL Development
-- 🗄️ Microsoft SQL Server
-- 🏛️ Oracle SQL
-- 📊 Data Modeling
-- 📈 Business Intelligence
-- ⚡ SQL Query Optimization
+### 🏢 SQL Data Warehouse — Medallion Architecture
 
----
+An end-to-end Microsoft SQL Server data warehouse built on the **Bronze / Silver / Gold** medallion pattern — covering ETL development, dimensional modeling (star schema), data transformation, data quality validation, and analytical SQL for BI reporting.
 
-## 💻 Technical Skills
+🔗 [View Repository](https://github.com/Mustaq7892/sql-data-warehouse-project)
 
-### Programming Languages
-- SQL
-- C#
-- JavaScript
-- HTML
-- CSS
+### <img src="https://raw.githubusercontent.com/Mustaq7892/Zyron/main/assets/zyron-icon.svg" width="24"> [Zyron](https://github.com/Mustaq7892/Zyron)
 
-### Database Technologies
-- Microsoft SQL Server
-- Oracle SQL
-
-### Data Engineering
-- Data Warehousing
-- ETL Pipelines
-- Data Modeling
-- Dimensional Modeling (Star Schema)
-- Data Transformation
-- Data Cleansing
-- Database Design
-- Analytical SQL
-
-### Tools & Technologies
-- SQL Server Management Studio (SSMS)
-- Oracle SQL Developer
-- Git & GitHub
-- Visual Studio
-- Visual Studio Code
-- Draw.io
+A local-first AI assistant with a hand-built LLM tool-calling system — no agent framework. Covers capability discovery, argument validation, multi-turn clarification, SQLite-backed memory, and voice interaction, backed by **34 automated tests**.
 
 ---
 
-## 📂 Featured Projects
+## Technical Toolkit
 
-### 🏢 SQL Data Warehouse Project
-
-Designed and implemented an end-to-end **Microsoft SQL Server Data Warehouse** following the **Medallion Architecture (Bronze, Silver, and Gold)**. The project demonstrates ETL development, dimensional modeling, data transformation, and analytical SQL to support business intelligence and data-driven decision-making.
-
----
-
-## 📚 Currently Learning
-
-- Advanced Microsoft SQL Server
-- Data Warehouse Architecture
-- ETL Pipeline Development
-- Query Performance Optimization
-- Database Performance Tuning
-- Modern Data Engineering Practices
+**Languages:** Python, SQL, C#, JavaScript, HTML, CSS  
+**Databases:** Microsoft SQL Server, Oracle SQL, SQLite  
+**Data Engineering:** ETL pipelines, data warehousing, dimensional modeling, data cleansing, database design  
+**AI & Automation:** LLMs, tool calling, dynamic routing, local AI applications  
+**Tools:** SSMS, Oracle SQL Developer, Git/GitHub, Visual Studio, VS Code, Draw.io
 
 ---
 
-## 🎯 Career Objective
+## Currently Learning
 
-To leverage my software development experience while building expertise in **Data Engineering**, creating scalable, reliable, and production-ready data solutions that enable data-driven decision-making.
+Deepening my SQL Server and query-optimization skills, data warehouse architecture patterns, and modern ETL practices — mainly by building projects like the ones above rather than through certifications alone.
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-mustaq-915741254/)
-
----
-
-> *"Building scalable data solutions that transform raw data into meaningful business insights."*
