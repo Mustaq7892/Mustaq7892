@@ -41,7 +41,7 @@ Deepening my SQL Server and query-optimization skills, data warehouse architectu
 ## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shaik-mustaq-915741254/" target="_blank" style="display: inline-block; background: rgba(10, 102, 194, 0.1); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(10, 102, 194, 0.25); border-radius: 12px; padding: 8px 16px; box-shadow: 0 4px 24px rgba(10, 102, 194, 0.12);">
+  <a href="https://www.linkedin.com/in/skmustaq/" target="_blank" style="display: inline-block; background: rgba(10, 102, 194, 0.1); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(10, 102, 194, 0.25); border-radius: 12px; padding: 8px 16px; box-shadow: 0 4px 24px rgba(10, 102, 194, 0.12);">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A66C2" alt="LinkedIn" style="height: 32px;">
   </a>
 </p>
